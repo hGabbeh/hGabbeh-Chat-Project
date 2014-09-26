@@ -32,6 +32,9 @@
             }
           }
         }
+      },
+      "attr": {
+        "style": {}
       }
     },
     "2": {
@@ -41,11 +44,26 @@
         "1": {
           "title": "search userbase",
           "id": 23,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
         },
         "2": {
           "title": "connected accounts",
-          "id": 26
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff99cc"
         }
       }
     },
@@ -59,25 +77,70 @@
           "ideas": {
             "1": {
               "title": "image",
-              "id": 44
+              "id": 44,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "2": {
               "title": "gfycat",
-              "id": 45
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "3": {
               "title": "youtube",
-              "id": 46
+              "id": 46,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "4": {
               "title": "wiki",
-              "id": 47
+              "id": 47,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "5": {
               "title": "facebook gen  embed",
-              "id": 48
+              "id": 48,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "6": {
+              "title": "twitter",
+              "id": 84,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            },
+            "collapsed": true
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
         }
       }
     },
@@ -95,6 +158,25 @@
             }
           }
         }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "5": {
+      "title": "easter eggs",
+      "id": 79,
+      "ideas": {
+        "1": {
+          "title": "'alot' -> img of an alot",
+          "id": 87,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
       }
     },
     "-1": {
@@ -122,7 +204,12 @@
         "1": {
           "title": "standard smileys",
           "id": 30,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "2": {
           "title": "smiley packs",
@@ -131,11 +218,26 @@
             "1": {
               "title": "top10 in each pack",
               "id": 34,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             },
             "2": {
               "title": "\"trailerparkboys pack\"",
-              "id": 37
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffff99"
             }
           }
         },
@@ -145,9 +247,24 @@
           "ideas": {
             "1": {
               "title": "webm / gif",
-              "id": 40
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffff99"
             }
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffff99"
         }
       }
     },
@@ -157,15 +274,163 @@
       "ideas": {
         "1": {
           "title": "reply to msg uid",
-          "id": 54
+          "id": 54,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
         },
         "2": {
           "title": "star/heart",
-          "id": 55
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "heatmap  of upvotes",
+              "id": 82,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "2": {
+              "title": "heart/star/replies = upvotes",
+              "id": 83,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
         },
         "3": {
           "title": "new msg",
-          "id": 62
+          "id": 62,
+          "ideas": {
+            "1": {
+              "title": "different color",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "2": {
+              "title": "1 second fade to normal on focus",
+              "id": 64,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Chat Gallery",
+          "id": 81,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "5": {
+          "title": "@user -> notify & scrollbarmark",
+          "id": 86,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "-4": {
+      "title": "profile",
+      "id": 72,
+      "ideas": {
+        "1": {
+          "title": "profile picture",
+          "id": 74,
+          "ideas": {
+            "1": {
+              "title": "hexa circle",
+              "id": 73,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "2": {
+          "title": "link accounts",
+          "id": 75,
+          "ideas": {
+            "1": {
+              "title": "google",
+              "id": 76,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "2": {
+              "title": "facebook",
+              "id": 77,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "3": {
+              "title": "twitter",
+              "id": 78,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc99"
         }
       }
     }
@@ -187,6 +452,60 @@
         "type": "with-children"
       }
     ],
-    "style": {}
-  }
+    "style": {},
+    "progress-statuses": {
+      "": {
+        "description": "Not Started",
+        "priority": 1,
+        "style": {
+          "background": false
+        }
+      },
+      "passing": {
+        "description": "Done",
+        "style": {
+          "background": "#00CC00"
+        }
+      },
+      "under-review": {
+        "description": "Under review",
+        "style": {
+          "background": "#00CCFF"
+        }
+      },
+      "in-progress": {
+        "description": "In Progress",
+        "priority": 3,
+        "style": {
+          "background": "#FFCC00"
+        }
+      },
+      "blocked": {
+        "description": "Blocked",
+        "priority": 4,
+        "style": {
+          "background": "#990033"
+        }
+      },
+      "parked": {
+        "description": "Parked",
+        "priority": 2,
+        "style": {
+          "background": "#FF3300"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 87,
+      "ideaIdTo": 42,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
 }
