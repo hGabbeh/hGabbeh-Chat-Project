@@ -171,29 +171,92 @@
           "title": "'alot' -> img of an alot",
           "id": 87,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#ffff99"
+            }
           }
         }
       },
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#ffff99"
+        }
+      }
+    },
+    "15": {
+      "title": "Name",
+      "id": 94,
+      "ideas": {
+        "1": {
+          "title": "Tails",
+          "id": 95,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "2": {
+          "title": "SheBang\nHashBang\nPoundBang\n ( #! )",
+          "id": 96,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "3": {
+          "title": "TrapChat (dat loading animation)",
+          "id": 97,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          70.5,
+          216,
+          1
+        ],
+        "style": {
+          "background": "#993366"
+        }
       }
     },
     "-1": {
-      "title": "Login",
-      "id": 14,
+      "title": "Sign-ups",
+      "id": 90,
       "ideas": {
         "1": {
-          "title": "google",
-          "id": 15
+          "title": "services",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "google",
+              "id": 15
+            },
+            "2": {
+              "title": "facebook",
+              "id": 16
+            },
+            "3": {
+              "title": "twitter",
+              "id": 17
+            }
+          }
         },
         "2": {
-          "title": "facebook",
-          "id": 16
-        },
-        "3": {
-          "title": "twitter",
-          "id": 17
+          "title": "get Fornavn, Etternavn, Nick, Email.",
+          "id": 92,
+          "ideas": {
+            "1": {
+              "title": "Confirm -> register user with <service> connected.",
+              "id": 93
+            }
+          }
         }
       }
     },
